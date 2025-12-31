@@ -14,4 +14,4 @@ Please **download and unzip** it before running any data processing or experimen
 For **Study 2**, we provide two sub-tasks. Please refer to the corresponding README files:
 
 - **ET-Net (eye-tracking model baseline)**: [ET-Net-readme.md](ET-Net/README.md)
-- **LLM-based baseline**: [LLM_based_readme.md](LM_based/readme.md)
+- **LLM-based baseline**: [LLM_based_readme.md](LLM_based/LLM_BASED_README.md)
