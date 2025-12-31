@@ -1,11 +1,5 @@
 """
 Build a Qwen3-friendly Yes/No dataset that detects whether a passage was AI-generated using both text and eye-tracking signals.
-
-- Reads dataset/raw_data/data.csv (path resolved via configs/base.yaml).
-- User prompt includes the passage, tokenized word sequence, and per-word eye-tracking metrics.
-- Assistant answer is strictly "Yes" or "No" using the `Source` ground truth.
-- Respects the existing train/val/test split from the CSV.
-- Writes datasets to dataset/processed_data/dataset_eyetracking and saves the first sample.
 """
 
 import ast
