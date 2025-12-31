@@ -12,13 +12,17 @@ This repository contains the code for the ET-Net.
 ## ⚙️ Environment
 
 conda create -n ETNet python=3.10 -y
+
 conda activate ETNet
 
 conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia -y
 
 pip install hydra-core pandas torchmetrics easydict simplejson fvcore wandb
+
 pip install scikit-learn
+
 conda install python-dateutil
 
 pip install transformers==4.57.3 huggingface-hub==0.34.0
+
 pip install ninja einops
