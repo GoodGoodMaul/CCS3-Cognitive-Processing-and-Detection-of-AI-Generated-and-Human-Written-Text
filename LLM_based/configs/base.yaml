@@ -1,0 +1,15 @@
+model_name: "Qwen3-8B"
+tokenizer_name: null
+trust_remote_code: true
+input_data_path: "dataset/raw_data"
+output_data_path: "dataset/processed_data"
+evaluation:
+  dataset_name: "dataset_text"
+  dataset_path: null
+  thinking_mode: false
+  max_new_tokens: 128
+  temperature: 0.0
+  top_p: 1.0
+  repetition_penalty: 1.0
+  max_samples: null
+  seed: 42
