@@ -18,12 +18,12 @@ Please **download and unzip** the file before using the data.
 ---
 
 
-
 ## Study 1 Tasks
 
-**Study 1: Eye-tracking Study on Human and AI Texts** focuses on analyzing eye-tracking data to investigate whether reading behavior differs between human-written and AI-generated texts.
+**Study 1: Eye-Tracking Study on Human and AI Texts** investigates whether reading behavior differs between human-written and AI-generated texts by analyzing eye-tracking data.
 
-This folder contians two datasets extracted from the "Raw Data" to analyze research questions in Study 1. We also attch the code for data analysis and the code for calculating the textual similarity between AI and Human texts. 
+This folder contains two datasets derived from the raw data, which are used to address the research questions in Study 1. It also includes the code for data analysis as well as the code used to compute textual similarity between AI-generated and human-written texts.
+
 ---
 
 ## Study 2 Tasks
